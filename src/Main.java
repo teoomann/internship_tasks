@@ -23,7 +23,9 @@ public class Main {
 
 
         boolean question = false;
-System.out.println(question);
+        System.out.println(question);
+        float myNumber1 = 25.5f;
+        System.out.println(myNumber1);
 
     }
 

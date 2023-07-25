@@ -1,3 +1,5 @@
+package Variables;
+
 import java.util.Scanner;
 public class haftanın_günleri {
     public static void main (String[] args) {

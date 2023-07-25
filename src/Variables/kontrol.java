@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class kontrol  {
     public static void main (String[] args){
         System.out.println("Hello World");
-        int rastgelesayi1 = (int) (Math.random() * 100) + 1;;
+        int rastgelesayi1 = (int) (Math.random() * 10) + 1;;
         System.out.println(rastgelesayi1);
         int tahmin, kalanhaklar = 3;
         Scanner scanner = new Scanner(System.in);

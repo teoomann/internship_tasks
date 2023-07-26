@@ -10,7 +10,7 @@ public class kontrol  {
         int tahmin, kalanhaklar = 3;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("1 ile 100 arasında sayı seçtim tahmin etmeye çalış edemezsen kaybedersin");
+        System.out.println("1 ile 10 arasında sayı seçtim tahmin etmeye çalış edemezsen kaybedersin");
 
         while(kalanhaklar > 0) {
             System.out.print("Tahmin ettiğin sayı: ");

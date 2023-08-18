@@ -1,6 +1,6 @@
 package Variables;
 import java.util.Scanner;
-public class haftanin_günleri_Switch {
+public class HaftaninGunleriSwitch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("1 ile 7 arasında bir sayi gir: ");

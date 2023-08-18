@@ -1,6 +1,6 @@
 package Variables;
 import java.util.ArrayList;
-public class contains_ornek {
+public class ContainsOrnek {
     public static void main(String[] args) {
 
         ArrayList<String> lolCarList = new ArrayList<>();

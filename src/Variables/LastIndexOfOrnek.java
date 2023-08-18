@@ -1,6 +1,6 @@
 package Variables;
 
-public class lastindexof_ornek {
+public class LastIndexOfOrnek {
     public static void main(String[] args) {
         int[] numbers = { 2, 5, 8, 3, 2, 10, 7, 2 };
         int searchValue = 2;

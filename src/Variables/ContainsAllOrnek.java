@@ -1,7 +1,7 @@
 package Variables;
 import java.util.ArrayList;
 import java.util.Arrays;
-public class containsall_ornek {
+public class ContainsAllOrnek {
     public static void main(String[] args) {
         ArrayList<String> lolCarList = new ArrayList<>();
         lolCarList.add("Ahri");

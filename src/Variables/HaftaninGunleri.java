@@ -1,7 +1,7 @@
 package Variables;
 
 import java.util.Scanner;
-public class haftanın_günleri {
+public class HaftaninGunleri {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Hello World");

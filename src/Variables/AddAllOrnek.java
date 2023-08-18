@@ -1,7 +1,7 @@
 package Variables;
 import java.util.ArrayList;
 import java.util.Arrays;
-public class addall_örnek {
+public class AddAllOrnek {
     public static void main(String[] args) {
         ArrayList<String> lolCarList = new ArrayList<>();
         ArrayList<String> yeniKarakterler = new ArrayList<>(Arrays.asList("Ahri", "Yasuo", "Jinx", "Zed"));

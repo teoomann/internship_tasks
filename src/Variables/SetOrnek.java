@@ -1,7 +1,7 @@
 package Variables;
 import java.util.HashSet;
 import java.util.Set;
-public class set_ornek {
+public class SetOrnek {
     public static void main(String[] args) {
         Set<String> lolCharacters = new HashSet<>();
         lolCharacters.add("ahri");

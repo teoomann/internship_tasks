@@ -2,7 +2,7 @@ package Variables;
 
 import java.util.Scanner;
 
-public class kontrol  {
+public class Kontrol {
     public static void main (String[] args){
         System.out.println("Hello World");
         int rastgelesayi1 = (int) (Math.random() * 10) + 1;

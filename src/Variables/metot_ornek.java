@@ -2,6 +2,14 @@ package Variables;
 
 public class metot_ornek {
     public static void main(String[] args) {
+
+        Student s1 = new Student();
+        s1.setSurname("tunali");
+
+        System.out.println(s1.getSurname());
+
+
+
         double sayi1 = 10;
         double sayi2 = 5;
 

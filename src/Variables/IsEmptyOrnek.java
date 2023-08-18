@@ -1,8 +1,7 @@
 package Variables;
 import java.util.ArrayList;
-import java.util.Arrays;
 
-public class isempty_ornek {
+public class IsEmptyOrnek {
     public static void main(String[] args) {
         ArrayList<String> lolCarList = new ArrayList<>();
         System.out.println("lol karakterleri (Önce):");

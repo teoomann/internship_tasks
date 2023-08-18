@@ -1,4 +1,4 @@
-package Variables;public class string_kutuphanesi_ornek {
+package Variables;public class StringKutuphanesiOrnek {
     public static void main(String[] args) {
         String metin1 = "oynuyorum";
         String metin2 = new String("lol");

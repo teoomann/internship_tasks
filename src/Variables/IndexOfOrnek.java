@@ -1,7 +1,7 @@
 package Variables;
 import java.util.List;
 import java.util.ArrayList;
-public class indexof_ornek {
+public class IndexOfOrnek {
     public static void main(String[] args) {
         List<String> lolçarlar1 = new ArrayList<>();
         lolçarlar1.add("ahri");

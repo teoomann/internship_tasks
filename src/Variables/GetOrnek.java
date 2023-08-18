@@ -1,6 +1,6 @@
 package Variables;
 import java.util.ArrayList;
-public class get_ornek {
+public class GetOrnek {
     public static void main(String[] args) {
         ArrayList<String> lolCarList = new ArrayList<>();
         lolCarList.add("Ahri");

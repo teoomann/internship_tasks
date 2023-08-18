@@ -1,7 +1,7 @@
 package Variables;
 import java.util.ArrayList;
 import java.util.List;
-public class clear_ornek {
+public class SublistOrnek {
     public static void main(String[] args) {
         List<String> lolçarlar1 = new ArrayList<>();
         lolçarlar1.add("ahri");
@@ -11,17 +11,14 @@ public class clear_ornek {
         lolçarlar1.add("zed");
         lolçarlar1.add("jinx");
         lolçarlar1.add("darius");
-        System.out.println("lobide:");
+        System.out.println("lol karakterleri önce:");
         for (String character : lolçarlar1) {
             System.out.println(character);
-        }
-       lolçarlar1.clear();
-        System.out.println("maçtan sonra:");
-        if (lolçarlar1.isEmpty()) {
-            System.out.println("kimse yok.");
-        } else {
-            for (String character : lolçarlar1) {
-                System.out.println(character);
+            List<String> subCharacters = lolçarlar1.subList(2, 5);
+            System.out.println("lol karakterleri sublist");
+            for (String subCharacter : subCharacters) {
+                System.out.println(subCharacter);
+
             }
         }
     }

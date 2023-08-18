@@ -26,7 +26,7 @@ public class dizi {
         System.out.println("X ve Y dizilerinde ortak olan elemanlar: " + commonElements);
     }
 
-    static int getRandomNumber(int max) {
+    protected static int getRandomNumber(int max) {
         return (int) (Math.random() * max);
     }
 

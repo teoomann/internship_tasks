@@ -1,6 +1,6 @@
 package Variables;
 import java.util.ArrayList;
-public class remove_ornek {
+public class RemoveOrnek {
     public static void main(String[] args) {
 
         ArrayList<String> lolCarList = new ArrayList<>();

@@ -1,7 +1,7 @@
 package Variables;
 import java.util.HashMap;
 import java.util.Map;
-public class Sinifnothesaplama {
+public class SinifNotHesaplama {
     public static void main(String[] args) {
         Map<Integer, String> ogrenciIsimleri = new HashMap<>();
         ogrenciIsimleri.put(101, "Ali");

@@ -1,6 +1,6 @@
 package Variables;
 
-public class math_kutuphane {
+public class MathKutuphane {
     public static void main(String[] args) {
         double mutlakdeger = Math.abs(-5.7);
         System.out.println("mutlak değer: " + mutlakdeger);

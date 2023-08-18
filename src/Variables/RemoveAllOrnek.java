@@ -1,7 +1,7 @@
 package Variables;
 import java.util.ArrayList;
 import java.util.Arrays;
-public class removeall_ornek {
+public class RemoveAllOrnek {
     public static void main(String[] args) {
         ArrayList<String> lolCarList = new ArrayList<>();
         lolCarList.add("Ahri");

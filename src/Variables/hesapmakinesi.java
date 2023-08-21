@@ -1,5 +1,5 @@
 package Variables;
-public class hesapmakinesi {
+public class hesapmakinasi {
     public static void main(String[] args) {
         class HesapMakinasi {
             public int topla(int sayi1, int sayi2) {

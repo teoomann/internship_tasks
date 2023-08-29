@@ -17,7 +17,8 @@ class Child extends Parent {
         super(ad);
     }
 
-    private String getAd() {
+    public
+    String getAd() {
         return "selam";
     }
 

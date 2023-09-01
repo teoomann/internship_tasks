@@ -1,15 +1,15 @@
 package Variables;
 
-public class Student extends Person {
+public class Ogrenci extends Person {
 
     private String school;
 
-    public Student(String name, String surname, String age, String school) {
+    public Ogrenci(String name, String surname, String age, String school) {
         super(name, surname, age);
         this.school = school;
     }
 
-    public Student() {
+    public Ogrenci() {
     }
 
     public String getSchool() {
